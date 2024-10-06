@@ -17,8 +17,8 @@
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px ;
-    box-shadow: 1px 1px 10px black;
-}   
+    box-shadow: 1px 1px 5px rgba(122, 42, 42, 0.801);
+}
 .todo-app h2{
     color: #343131;
     display: flex;
@@ -54,5 +54,5 @@ button{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
-    box-shadow: -5px 1px 5px black;
+    box-shadow:-2px 1px 5px rgba(122, 42, 42, 0.801);
 }
