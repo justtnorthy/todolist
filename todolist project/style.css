@@ -56,3 +56,6 @@ button{
     border-radius: 40px;
     box-shadow:-2px 1px 5px rgba(122, 42, 42, 0.801);
 }
+button:hover{
+    background: #A04747;
+}
